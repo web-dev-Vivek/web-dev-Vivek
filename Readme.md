@@ -1,7 +1,7 @@
 <img src="https://promwad.com/sites/default/files/frontend_development_banner.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Vivek, frontend developer 👋🏻:
-🥷I'm currently learning frontend development <br />
+🥷I'm currently learning backend development <br />
 👨‍🎓Studying Computer Science from J.C. Bose University of Sciences and Technology, YMCA 
 
 
